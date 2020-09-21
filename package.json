@@ -1,0 +1,14 @@
+{
+  "name": "p2-telemetry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@prisma/cli": "2.8.0-dev.16"
+  },
+  "dependencies": {
+    "@prisma/ci-info": "^2.1.2",
+    "@prisma/client": "2.8.0-dev.16",
+    "dotenv": "^8.2.0"
+  }
+}
